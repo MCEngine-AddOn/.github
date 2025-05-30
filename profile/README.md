@@ -132,7 +132,7 @@ The core MCEngine plugin will detect and load this add-on automatically if it im
 
 <a href="https://github.com/MCEngine-AddOn/example"><code>Example</code></a>
 
-<a href="https://github.com/MCEngine-AddOn/chat-bot"><code>Chat-Bot</code></a>
+<a href="https://github.com/MCEngine-AddOn/artificialintelligence-chat-bot"><code>Chat-Bot</code></a>
 
 <h3><b>📁 Projects</b></h3>
 
