@@ -138,7 +138,7 @@ The core MCEngine plugin will detect and load this add-on automatically if it im
 
 <table>
   <tr>
-    <td><a href="https://github.com/MCEngine/artificialintelligence"><code>artificialintelligence</code></a></td>
+    <td><a href="https://github.com/MCEngine/artificialintelligence-engine"><code>artificialintelligence</code></a></td>
   </tr>
 </table>
 
